@@ -5,7 +5,8 @@ Identifiers
 •	Subject - The ID of the test subject
 •	Activity - The type of activity performed 
  
-Measurements
+Measurements:
+
 tBodyAcc-mean()-X
 
 tBodyAcc-mean()-Y
