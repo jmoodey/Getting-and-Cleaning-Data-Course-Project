@@ -37,7 +37,7 @@ tGravityAcc-std()-Z
 
 tBodyAccJerk-mean()-X
 
-tBodyAccJerk-mean()-Y
+tBodyAccJerk-mean()-Y 
 
 tBodyAccJerk-mean()-Z
 
