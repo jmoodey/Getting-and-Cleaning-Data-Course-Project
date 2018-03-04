@@ -2,8 +2,8 @@ Code Book
 This code book describes the fields in tidy_data.txt
 
 Identifiers
-•	Subject - The ID of the test subject
-•	Activity - The type of activity performed 
+Subject - The ID of the test subject
+Activity - The type of activity performed 
  
 Measurements:
 
