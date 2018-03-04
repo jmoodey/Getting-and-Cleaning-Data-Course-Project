@@ -1,7 +1,7 @@
 Code Book
 This code book describes the fields in tidy_data.txt
 
-Identifiers
+Identifiers:
 
 Subject - The ID of the test subject
 
