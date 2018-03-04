@@ -6,12 +6,12 @@ Identifiers
 •	Activity - The type of activity performed 
  
 Measurements
-tBodyAcc-mean()-X
-tBodyAcc-mean()-Y
-tBodyAcc-mean()-Z
-tBodyAcc-std()-X
-tBodyAcc-std()-Y
-tBodyAcc-std()-Z
+tBodyAcc-mean()-X,
+tBodyAcc-mean()-Y,
+tBodyAcc-mean()-Z,
+tBodyAcc-std()-X,
+tBodyAcc-std()-Y,
+tBodyAcc-std()-Z,
 tGravityAcc-mean()-X
 tGravityAcc-mean()-Y
 tGravityAcc-mean()-Z
